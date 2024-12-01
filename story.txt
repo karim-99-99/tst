@@ -1,1 +1,6 @@
 nega for love
+git switch -
+git checkout
+nega
+ngaaa
+\
